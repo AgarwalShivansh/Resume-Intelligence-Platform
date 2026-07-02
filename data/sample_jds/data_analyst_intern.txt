@@ -1,0 +1,23 @@
+Data Analyst Intern
+
+We are looking for a Data Analyst Intern to join our analytics team.
+
+Responsibilities:
+- Analyze large datasets to identify trends and insights
+- Build dashboards and reports using Power BI
+- Write SQL queries to extract and transform data
+- Collaborate with stakeholders to understand business requirements
+
+Required Skills:
+- Strong proficiency in SQL
+- Experience with Power BI or similar BI tools
+- Working knowledge of Python for data analysis (Pandas)
+- Good understanding of statistics
+
+Preferred Skills:
+- Experience with machine learning concepts
+- Familiarity with cloud data warehouses (Snowflake, BigQuery, or Redshift)
+- Experience with version control (Git)
+
+Minimum Qualification: Pursuing or completed B.Tech/B.E. in Computer Science,
+Data Science, or related field.

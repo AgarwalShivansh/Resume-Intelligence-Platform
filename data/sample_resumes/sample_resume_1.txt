@@ -1,0 +1,28 @@
+Aarav Sharma
+aarav.sharma@example.com | +91-9876543210 | linkedin.com/in/aaravsharma
+
+EDUCATION
+B.Tech in Computer Science (Data Science Specialization)
+ABC Institute of Technology, 2026 (Expected)
+
+SKILLS
+Python, Pandas, NumPy, scikit-learn, SQL, Power BI, Machine Learning,
+Data Visualization, Git, Streamlit, Excel
+
+PROJECTS
+Customer Churn Prediction with Explainability
+Built a classification model (XGBoost) to predict customer churn on a telecom
+dataset, achieving 0.84 AUC. Added SHAP-based explainability to show feature
+contributions per prediction. Deployed using Streamlit.
+Technologies: Python, XGBoost, SHAP, Streamlit, Pandas
+
+Sales Dashboard for Retail Analytics
+Designed an interactive Power BI dashboard analyzing 2 years of retail sales
+data across regions, identifying top-performing product categories.
+Technologies: Power BI, SQL, DAX
+
+EXPERIENCE
+Data Analyst Intern, XYZ Analytics Pvt Ltd
+Jun 2025 - Aug 2025
+Cleaned and analyzed sales data for 5 retail clients, building automated
+SQL queries and Power BI reports that reduced manual reporting time by 40%.
