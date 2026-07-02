@@ -6,6 +6,8 @@ Built as a portfolio project demonstrating: NLP, LLM integration, structured ext
 
 ---
 
+### Live-Project link:- https://resume-intelligence-platform-01234.streamlit.app/
+
 ## 🎯 What it does
 
 1. **Upload a resume** (PDF or DOCX)
